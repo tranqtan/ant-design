@@ -62,17 +62,17 @@ const columns: TableProps<DataType>['columns'] = [
 const data: DataType[] = [
   {
     key: '1',
-    name: 'John Brown',
-    age: 32,
-    address: 'New York No. 1 Lake Park',
+    name: 'quoctan',
+    age: 23,
+    address: 'namdinh',
     tags: ['nice', 'developer'],
   },
   {
     key: '2',
-    name: 'Jim Green',
-    age: 42,
-    address: 'London No. 1 Lake Park',
-    tags: ['loser'],
+    name: 'buiduyen',
+    age: 24,
+    address: 'tuyenquang',
+    tags: ['socute'],
   },
   {
     key: '3',
